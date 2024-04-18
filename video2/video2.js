@@ -1,3 +1,3 @@
-// alert('Hello word with Javascripts');
+alert('Hello word with Javascripts');
 console.log('Hello word with Javascripts')
 console.log('Hello word with Gwen')
