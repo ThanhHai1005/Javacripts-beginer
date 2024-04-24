@@ -10,3 +10,7 @@ console.log(' compare a === b: ', 'a =', a, 'b =', b, 'result:', a === b)
 // === : type; value
 
 // == : value
+
+let c = {};
+
+console.log('check value c', c)
